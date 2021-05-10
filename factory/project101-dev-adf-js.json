@@ -1,0 +1,9 @@
+{
+	"name": "project101-dev-adf-js",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8f560e2b-9406-4fb9-84ab-570c7dd0c981",
+		"tenantId": "9b2d5f87-e103-49cd-a5c2-2d42965d0a20"
+	}
+}
